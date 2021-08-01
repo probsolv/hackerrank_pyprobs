@@ -1,5 +1,7 @@
+# input
 n = 3 # try different values for n
 
+# your code
 if n%2 != 0:
   print("Weird")
 elif n%2 == 0 and 2 <= n <=5:
